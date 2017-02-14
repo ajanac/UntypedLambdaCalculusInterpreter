@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untypedlambdainyerpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/untypedlambdainyerpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untypedlambdainyerpreter-build.iml" filepath="$PROJECT_DIR$/.idea/modules/untypedlambdainyerpreter-build.iml" />
+    </modules>
+  </component>
+</project>
